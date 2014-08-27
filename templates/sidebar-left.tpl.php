@@ -1,7 +1,7 @@
 <?php
 /**
  * @file
- * Template for Hatha sidebar left.
+ * Override template for Benjamin sidebar left.
  */
 ?>
 <?php if (!empty($content['top'])): ?>

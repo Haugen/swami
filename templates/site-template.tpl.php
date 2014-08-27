@@ -1,7 +1,7 @@
 <?php
 /**
  * @file
- * Hatha site template layout.
+ * Override Benjamin site template layout.
  */
 ?>
 
