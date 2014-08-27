@@ -1,0 +1,5 @@
+name = Swami
+description = Bootstrap oriented theme for Benjamin profile.
+base theme = hatha
+core = 7.x
+engine = phptemplate
