@@ -5,16 +5,22 @@
  */
 ?>
 
-<div id="page">
-  <header role="branding">
-    <?php print render($content['header']); ?>
+<div id="page" class="container">
+  <header role="branding" class="row">
+    <div class="col-xs-12">
+      <?php print render($content['header']); ?>
+    </div>
   </header>
 
-  <div role="content">
-    <?php print render($content['content']); ?>
+  <div role="content" class="row">
+    <div class="col-xs-12">
+      <?php print render($content['content']); ?>
+    </div>
   </div>
 
-  <footer role="closure">
-    <?php print render($content['footer']); ?>
+  <footer role="closure" class="row">
+    <div class="col-xs-12">
+      <?php print render($content['footer']); ?>
+    </div>
   </footer>
 </div>
