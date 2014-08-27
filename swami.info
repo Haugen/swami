@@ -3,3 +3,7 @@ description = Bootstrap oriented theme for Benjamin profile.
 base theme = hatha
 core = 7.x
 engine = phptemplate
+
+; Bootstrap stylesheets
+stylesheets[all][] = bower_components/bootstrap/dist/css/bootstrap.min.css
+stylesheets[all][] = bower_components/bootstrap/dist/css/bootstrap-theme.min.css
