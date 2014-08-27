@@ -10,11 +10,11 @@
   </div>
 <?php endif; ?>
 
-<div class="sidebar">
+<div class="sidebar col-md-3 col-xs-12">
   <?php print $content['sidebar']; ?>
 </div>
 
-<div class="main-content">
+<div class="main-content col-md-9 col-xs-12">
   <?php print $content['content']; ?>
 </div>
 
