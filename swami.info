@@ -7,3 +7,6 @@ engine = phptemplate
 ; Bootstrap stylesheets
 stylesheets[all][] = bower_components/bootstrap/dist/css/bootstrap.min.css
 stylesheets[all][] = bower_components/bootstrap/dist/css/bootstrap-theme.min.css
+
+; Stylesheets
+stylesheets[all][] = css/main.css
