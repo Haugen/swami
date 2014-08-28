@@ -10,3 +10,6 @@ stylesheets[all][] = bower_components/bootstrap/dist/css/bootstrap-theme.min.css
 
 ; Stylesheets
 stylesheets[all][] = css/main.css
+
+; Core stylesheets to exclude
+stylesheets[all][] = system.menus.css
