@@ -1,7 +1,7 @@
 <?php
 /**
  * @file
- * Override template for Benjamin sidebar left.
+ * Override template for Benjamin one sidebar.
  */
 ?>
 <?php if (!empty($content['top'])): ?>
